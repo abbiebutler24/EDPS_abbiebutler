@@ -4,12 +4,17 @@ body {
 
 h1 {
   color: lightseagreen;
-  margin-left: 500px;
+  text-align: center;
     font-size: 65px;
-    
+    }
+
+h2 {
+    color: black;
+    text-align: center;
 }
 
 p {
   font-family: georgia, serif;
   font-size: 15px;
+  text-align: center;
 }
