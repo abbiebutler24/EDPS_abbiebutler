@@ -2,6 +2,10 @@ body {
   background-color: mintcream;
 }
 
+div {
+  margin: 25px 25px;
+}
+
 h1 {
   color: lightseagreen;
   text-align: center;
