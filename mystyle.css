@@ -9,13 +9,15 @@ div {
 h1 {
   color: lightseagreen;
   text-align: center;
-  font-size: 65px;
+  font-size: 100px;
   background-color: mintcream;
+  font-family: 'Dancing Script', cursive;
     }
 
 h2 {
     color: black;
     text-align: center;
+    font-size: 65px;
     font-family: 'Dancing Script', cursive;
 }
 
