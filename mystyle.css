@@ -2,6 +2,38 @@ body {
   background-color: whitesmoke;
 }
 
+.topnav {
+    overflow: hidden;
+    background-color: dimgray;
+    position: fixed;
+    top: 0;
+    width: 90%;
+    z-index: 100;
+}
+
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: gainsboro;
+    color: black;
+}
+
+.topnav a.split {
+    float: left;
+    background-color: teal;
+    color: white;
+}
+
+.container {
+    margin-top: 40px;
+}
+
 div {
   margin: 25px 25px;
 }
