@@ -69,6 +69,7 @@ div.col {
 h1 {
   color: teal;
   text-align: center;
+  top: 75px;
   font-size: 95px;
   font-family: 'Dancing Script', cursive;
     }
