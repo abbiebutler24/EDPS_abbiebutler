@@ -34,7 +34,7 @@ body {
 }
 
 #banner {
-  background-image: img src="img/sunflowerbackdrop.jpg";
+  background-image: url(img/sunflowerbackdrop.jpg");
   background-size: cover;
   background-position: bottom center;
   top: 35px;
