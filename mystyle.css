@@ -36,28 +36,29 @@ body {
 #banner {
   background-image: url(img/sunflowerbackdrop.jpg);
   background-size: cover;
-  background-position: bottom left;
+  background-position: left;
   top: 35px;
   height: 750px;
   width: 100%;
+  margin-left: 0px;
 }
 
 #banner .bannercontent h2 {
   position: relative;
   text-align: left;
-  top: 95px;
+  top: 80px;
   width: 350px;
   margin-right: 450px;
-  margin-left: 20px;
+  margin-left: 35px;
 }
 
 #banner .bannercontent h5 {
   position: relative;
   text-align: left;
-  top: 400px;
+  top: 300px;
   width: 350px;
   margin-right: 450px;
-  margin-left: 30px;
+  margin-left: 35px;
 }
   
 .container {
