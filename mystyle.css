@@ -38,14 +38,23 @@ body {
   background-size: cover;
   background-position: bottom left;
   top: 35px;
-  height: 700px;
+  height: 750px;
   width: 100%;
 }
 
 #banner .bannercontent h2 {
   position: relative;
   text-align: left;
-  top: 125px;
+  top: 95px;
+  width: 350px;
+  margin-right: 450px;
+  margin-left: 30px;
+}
+
+#banner .bannercontent h5 {
+  position: relative;
+  text-align: left;
+  top: 625px;
   width: 350px;
   margin-right: 450px;
   margin-left: 30px;
