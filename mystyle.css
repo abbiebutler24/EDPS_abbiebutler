@@ -38,7 +38,7 @@ body {
   background-size: cover;
   background-position: left;
   top: 35px;
-  height: 650px;
+  height: 625px;
   width: 100%;
   margin-left: 0px;
 }
@@ -55,7 +55,7 @@ body {
 #banner .bannercontent h5 {
   position: relative;
   text-align: left;
-  top: 120px;
+  top: 110px;
   width: 350px;
   margin-right: 450px;
   margin-left: 35px;
