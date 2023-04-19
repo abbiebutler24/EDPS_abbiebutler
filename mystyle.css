@@ -62,7 +62,13 @@ body {
 }
   
 .container {
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.headshot {
+  border-radius: 8px;
+  margin: auto;
 }
 
 div {
