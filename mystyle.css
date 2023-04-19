@@ -61,21 +61,17 @@ body {
   margin-left: 35px;
 }
 
-.topresumecontainerX {
+#education {
+  justify-content: center;
   margin: 5px;
-  float: left;
-  width: 33%
 }
 
-#education {
-  background-color: white;
-  border: 1px solid black;
-  margin: 5px;
+#headshot {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #skills {
-  background-color: white;
-  border: 1px solid black;
   margin: 5px;
 }
 
