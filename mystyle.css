@@ -91,6 +91,7 @@ div.topresumecontainer {
 #workhistory {
     margin-top: 10px;
     margin-left: 25px;
+    max-width: 85%;
 }
 
 div.projectgallery {
@@ -106,7 +107,7 @@ div.projectgallery:hover {
 
 div.projectgallery img {
   width: 100%;
-  height: auto;
+  max-height: 500px;
 }
 
 div.projgalldesc {
