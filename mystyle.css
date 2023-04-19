@@ -117,11 +117,12 @@ div.projgalldesc {
   background-color: teal;
 }
 
-divx {
-  margin: 25px 25px;
+div.familypicscontainer {
+  margin: 15px 15px;
+  display: inline;
 }
 
-div.col {
+div.colx {
     font-size: 25px;
     color: black;
     font-family: georgia, serif;
