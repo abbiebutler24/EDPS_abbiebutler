@@ -130,9 +130,9 @@ div.aboutme {
 }
 
 div.contactgallery {
-  margin-left: 150px;
+  margin-left: 25px;
   display: inline-grid;
-  width: 200px;
+  width: 100px;
 }
 
 div.contactgallery:hover {
@@ -141,7 +141,7 @@ div.contactgallery:hover {
 
 div.contactgallery img {
   width: 100%;
-  max-height: 200px;
+  max-height: 150px;
   background-color: white;
 }
 
