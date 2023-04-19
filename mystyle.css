@@ -130,8 +130,8 @@ div.aboutme {
 }
 
 div.contactgallery {
-  margin-left: 25px;
-  display: inline-grid;
+  margin: 5px;
+  float: left;
   width: 100px;
 }
 
