@@ -46,10 +46,10 @@ body {
 #banner .bannercontent h2 {
   position: relative;
   text-align: left;
-  top: 90px;
   width: 350px;
   margin-right: 450px;
   margin-left: 35px;
+  margin-top: 80px;
 }
 
 #banner .bannercontent h5 {
