@@ -60,6 +60,22 @@ body {
   margin-right: 450px;
   margin-left: 35px;
 }
+
+#education {
+  background-color: white;
+}
+
+#skills {
+  background-color: white;
+}
+
+#education li {
+  font-size: 20px;
+}
+
+#skills li {
+  font-size: 20px;
+}
   
 #workhistory {
     margin-top: 20px;
