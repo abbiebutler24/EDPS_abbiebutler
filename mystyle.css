@@ -130,11 +130,9 @@ div.aboutme {
 }
 
 div.contactgallery {
-  margin: 20px;
+  margin-left: 150px;
   display: inline-grid;
   width: 200px;
-  justify-content: center;
-  place-self: center;
 }
 
 div.contactgallery:hover {
