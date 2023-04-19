@@ -35,7 +35,7 @@ body {
 
 #banner {
   background-image: url(img/sunflowerbackdrop.jpg);
-  background-size: 100% 100%;
+  background-size: cover;
   background-position: center;
   top: 35px;
   max-height: 100vh;
@@ -69,11 +69,13 @@ body {
 
 #education {
   background-color: white;
+  border: 1px solid black;
   margin: 5px;
 }
 
 #skills {
   background-color: white;
+  border: 1px solid black;
   margin: 5px;
 }
 
