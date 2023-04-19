@@ -69,23 +69,25 @@ body {
 
 #education {
   background-color: white;
+  margin: 5px;
 }
 
 #skills {
   background-color: white;
+  margin: 5px;
 }
 
 #education li {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #skills li {
-  font-size: 20px;
+  font-size: 15px;
 }
   
 #workhistory {
-    margin-top: 20px;
-    margin-left: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 div {
