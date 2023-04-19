@@ -85,7 +85,7 @@ body {
 }
 
 div.topresumecontainer {
-  align: center;
+  justify-content: center;
 }
   
 #workhistory {
@@ -99,6 +99,7 @@ div.projectgallery {
   border: 1px solid dimgray;
   display: inline-grid;
   width: 400px;
+  justify-content: center;
 }
 
 div.projectgallery:hover {
