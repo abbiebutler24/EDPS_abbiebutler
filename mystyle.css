@@ -129,6 +129,29 @@ div.aboutme {
   margin-right: 60px;
 }
 
+div.contactgallery {
+  margin: 5px;
+  border: 1px solid dimgray;
+  display: inline-grid;
+  width: 400px;
+  justify-content: center;
+}
+
+div.contactgallery:hover {
+  border: 3px solid black;
+}
+
+div.contactgallery img {
+  width: 100%;
+  max-height: 300px;
+}
+
+div.contactdesc {
+  padding: 10px;
+  color: black;
+  text-align: center;
+}
+
 div.colx {
     font-size: 25px;
     color: black;
