@@ -36,9 +36,9 @@ body {
 #banner {
   background-image: url(img/sunflowerbackdrop.jpg);
   background-size: 100% 100%;
-  background-position: left;
+  background-position: center;
   top: 35px;
-  max-height: 100%;
+  max-height: 100vh;
   max-width: 100%;
   margin-left: 0px;
 }
