@@ -35,10 +35,10 @@ body {
 
 #banner {
   background-image: url(img/sunflowerbackdrop.jpg);
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: left;
   top: 35px;
-  max-height: 650px;
+  max-height: 100%;
   max-width: 100%;
   margin-left: 0px;
 }
