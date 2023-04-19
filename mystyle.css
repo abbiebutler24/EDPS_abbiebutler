@@ -61,6 +61,12 @@ body {
   margin-left: 35px;
 }
 
+.topresumecontainer {
+  margin: 5px;
+  float: left;
+  width: 33%
+}
+
 #education {
   background-color: white;
 }
