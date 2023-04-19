@@ -89,6 +89,27 @@ body {
     margin-left: 10px;
 }
 
+div.projectgallery {
+  margin: 5px;
+  border: 1px solid dimgray;
+  float: left;
+  width: 180px;
+}
+
+div.projectgallery:hover {
+  border: 3px solid black;
+}
+
+div.projectgallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.projgalldesc {
+  padding: 15px;
+  text-align: center;
+}
+
 div {
   margin: 25px 25px;
 }
