@@ -62,7 +62,7 @@ body {
 }
 
 #education {
-  justify-content: center;
+  top: 30px;
   margin: 5px;
 }
 
@@ -72,6 +72,7 @@ body {
 }
 
 #skills {
+  top: 30px;
   margin: 5px;
 }
 
