@@ -119,7 +119,14 @@ div.projgalldesc {
 
 div.familypicscontainer {
   margin: 15px 15px;
+  padding: 15px;
   display: inline;
+}
+
+div.aboutme {
+  margin-top: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 div.colx {
