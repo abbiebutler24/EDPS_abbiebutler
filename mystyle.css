@@ -74,7 +74,7 @@ h5 {
     color: black;
     font-size: 55px;
     font-family: impact, sans-serif;
-    animation: bounce 1s infinite;
+    animation: butler 1s infinite;
 }
 
 @keyframes butler {
