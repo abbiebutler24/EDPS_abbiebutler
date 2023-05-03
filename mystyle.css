@@ -176,8 +176,8 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: inline-flex;
-  max-width: 25%;
+  display: inline-block;
+  width: 25%;
   align-items: top;
   justify-content: center;
   word-wrap: break-word;
@@ -215,7 +215,7 @@ div.projectgallery img {
 div.projgalldesc {
   padding: 10px;
   color: white;
-  height: 30px;
+  height: 75px;
   text-align: center;
   background-color: teal;
 }
@@ -224,6 +224,7 @@ div.familypicscontainer {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 10px;
 }
 
 div.aboutme {
