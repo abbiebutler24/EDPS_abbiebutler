@@ -210,8 +210,9 @@ div.projgalldesc {
   background-color: teal;
 }
 
-div.familypicscontainer {
-  margin: auto;
+div.familypicscontainer img {
+  margin-left: auto;
+  margin-right: auto;
   padding: 15px;
   display: inline;
 }
@@ -220,6 +221,10 @@ div.aboutme {
   margin-top: 30px;
   margin-left: 60px;
   margin-right: 60px;
+}
+
+div.aboutme p {
+  font-size: 15px;
 }
 
 div.contactgallery {
