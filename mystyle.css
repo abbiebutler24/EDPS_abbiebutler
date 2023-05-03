@@ -164,7 +164,7 @@ div.headshot {
 }
 
 div.skills {
-  adding: 20px;
+  padding: 20px;
   word-wrap: break-word;
 }
 
@@ -256,12 +256,12 @@ div.contactme h3 {
 }
 
 div.contactgallery {
-  margin: auto;
   display: inline-grid;
   width: 200px;
   justify-content: center;
   align-items: center;
   place-self: center;
+  gap: 10px;
 }
 
 div.contactgallery:hover {
