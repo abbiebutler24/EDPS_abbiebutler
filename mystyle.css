@@ -176,7 +176,7 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: flex;
+  display: inline-grid;
   width: 350px;
   align-items: top;
   justify-content: center;
@@ -241,9 +241,21 @@ div.aboutme p {
   font-size: 20px;
 }
 
+div.contactme h1 {
+  color: teal;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 55px;
+  font-family: geneva, sans-serif;
+}
+
+div.contactme h3 {
+  text-align: center;
+}
+
 div.contactgallery {
   margin: 5px;
-  float: left;
+  display: inline-grid;
   width: 100px;
 }
 
