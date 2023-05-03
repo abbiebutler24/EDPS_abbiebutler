@@ -255,9 +255,8 @@ div.contactme h3 {
 
 div.contactgallery {
   margin: 5px;
-  border: 1px solid dimgray;
   display: inline-grid;
-  width: 300px;
+  width: 200px;
   justify-content: center;
   align-items: center;
 }
