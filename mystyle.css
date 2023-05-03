@@ -154,17 +154,18 @@ h5 {
     animation-delay: 1.7s;
 }
 
-#educationx {
-  margin: 25px;
+div.education {
+  padding: 20px;
+  word-wrap: break-word;
 }
 
-#headshotx {
-  margin-left: auto;
-  margin-right: auto;
+div.headshot {
+  object-fit: contain;
 }
 
-#skillsx {
-  margin: 25px;
+div.skills {
+  adding: 20px;
+  word-wrap: break-word;
 }
 
 #education li {
@@ -176,12 +177,12 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: inline;
-  max-width: 30%;
-  align-items: top;
+  display: inline-grid;
   justify-content: center;
+  grid-template-columns: auto auto auto auto;
+  align-items: top;
+  gap: 10px;
   padding: 10px;
-  word-wrap: break-word;
 }
   
 div.workcontainer {
@@ -203,6 +204,7 @@ div.projectgallery {
   width: 400px;
   justify-content: center;
   align-items: center;
+  place-self: center;
 }
 
 div.projectgallery:hover {
@@ -224,8 +226,7 @@ div.projgalldesc {
 }
 
 div.familypicscontainer {
-  margin-left: 10px;
-  margin-right: 10px;
+  gap: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -260,6 +261,7 @@ div.contactgallery {
   width: 200px;
   justify-content: center;
   align-items: center;
+  place-self: center;
 }
 
 div.contactgallery:hover {
