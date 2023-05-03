@@ -262,6 +262,7 @@ div.contactgallery {
   align-items: center;
   place-self: center;
   gap: 10px;
+  margin-bottom: 50px;
 }
 
 div.contactgallery:hover {
