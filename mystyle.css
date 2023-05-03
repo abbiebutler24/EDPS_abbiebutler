@@ -211,9 +211,9 @@ div.projgalldesc {
 }
 
 div.familypicscontainer {
-  display: inline;
-  margin-left: 50px;
-  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 div.aboutme {
