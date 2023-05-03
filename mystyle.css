@@ -176,14 +176,21 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: block;
-  margin-left: 50 px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
   
 div.workcontainer {
     margin-top: 50px;
     margin-left: 50px;
     float: right;
+}
+
+div.workcontainer p {
+  font-family: georgia, serif;
+  font-size: 20px;
+  text-align: left;
 }
 
 div.projectgallery {
@@ -223,7 +230,7 @@ div.aboutme {
 }
 
 div.aboutme p {
-  font-size: 15px;
+  font-size: 20px;
 }
 
 div.contactgallery {
