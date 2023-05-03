@@ -255,6 +255,10 @@ div.contactme h3 {
   text-align: center;
 }
 
+div.contactgallerycont {
+  margin-bottom: 50px;
+}
+
 div.contactgallery {
   display: inline-grid;
   width: 200px;
@@ -262,7 +266,6 @@ div.contactgallery {
   align-items: center;
   place-self: center;
   gap: 10px;
-  margin-bottom: 50px;
 }
 
 div.contactgallery:hover {
@@ -278,6 +281,7 @@ div.contactgallery img {
 
 div.contactdesc {
   padding: 10px;
+  width: 100%;
   color: white;
   text-align: center;
   background-color: teal;
