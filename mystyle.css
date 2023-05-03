@@ -154,16 +154,16 @@ h5 {
     animation-delay: 1.7s;
 }
 
-#education {
+#educationx {
   margin: 25px;
 }
 
-#headshot {
+#headshotx {
   margin-left: auto;
   margin-right: auto;
 }
 
-#skills {
+#skillsx {
   margin: 25px;
 }
 
@@ -177,14 +177,14 @@ h5 {
 
 div.topresumecontainer {
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: center;
 }
   
 div.workcontainer {
     margin-top: 50px;
     margin-left: 50px;
-    float: right;
+    align-items: center;
 }
 
 div.workcontainer p {
