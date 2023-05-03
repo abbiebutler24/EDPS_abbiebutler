@@ -176,9 +176,11 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: flex;
+  display: inline-flex;
+  max-width: 25%;
   align-items: top;
   justify-content: center;
+  word-wrap: break-word;
 }
   
 div.workcontainer {
@@ -213,6 +215,7 @@ div.projectgallery img {
 div.projgalldesc {
   padding: 10px;
   color: white;
+  height: 30px;
   text-align: center;
   background-color: teal;
 }
