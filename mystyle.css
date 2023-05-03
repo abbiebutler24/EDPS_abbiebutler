@@ -176,17 +176,18 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: inline-grid;
-  width: 350px;
+  display: inline;
+  max-width: 30%;
   align-items: top;
   justify-content: center;
+  padding: 10px;
   word-wrap: break-word;
 }
   
 div.workcontainer {
-    margin-top: 50px;
-    margin-left: 50px;
-    align-items: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  align-items: center;
 }
 
 div.workcontainer p {
@@ -254,7 +255,7 @@ div.contactme h3 {
 }
 
 div.contactgallery {
-  margin: 5px;
+  margin: auto;
   display: inline-grid;
   width: 200px;
   justify-content: center;
