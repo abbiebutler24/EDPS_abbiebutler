@@ -176,7 +176,7 @@ h5 {
 }
 
 div.topresumecontainer {
-  display: inline-block;
+  display: flex;
   width: 25%;
   align-items: top;
   justify-content: center;
@@ -191,7 +191,7 @@ div.workcontainer {
 
 div.workcontainer p {
   font-family: georgia, serif;
-  font-size: 20px;
+  font-size: 17px;
   text-align: left;
 }
 
@@ -210,6 +210,7 @@ div.projectgallery:hover {
 div.projectgallery img {
   width: 100%;
   max-height: 300px;
+  object-fit: contain;
 }
 
 div.projgalldesc {
@@ -224,7 +225,9 @@ div.familypicscontainer {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  object-fit: contain;
 }
 
 div.aboutme {
