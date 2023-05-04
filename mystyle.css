@@ -267,6 +267,7 @@ div.contactme h3 {
 
 div.contactgallerycont {
   margin-bottom: 50px;
+  place-self: center;
 }
 
 div.contactgallery {
