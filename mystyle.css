@@ -176,6 +176,7 @@ div.education {
 
 div.headshot {
   object-fit: contain;
+  align-items: center;
 }
 
 div.skills {
